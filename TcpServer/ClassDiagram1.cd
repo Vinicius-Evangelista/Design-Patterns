@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TcpServer.Client.HttpServer">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAABAAAACAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Client\HttpServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TcpServer.Adapter.HttpAdapter">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAIAAAAABAAAAAABAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Adapter\HttpAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TcpServer.Adaptee.Http2">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEAEgAQAQIAAAIiAAAEBBAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adaptee\Http2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TcpServer.Target.Http1">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAAAAIACAAABAQAAAADAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Target\Http1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="IHttpRequest">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAIAAAAABAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client\IHttpRequest.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="TcpServer.Adaptee.IHttp2">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABEAEAAAAAAAAAIAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adaptee\IHttp2.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
