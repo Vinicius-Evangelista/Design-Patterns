@@ -5,7 +5,7 @@ I hope that you can learn something with me 🙂.
 
 My website for reference: https://www.dofactory.com/net/design-patterns 
 
-## Desingn Pattern Examples:\
+## Desingn Pattern Examples
 
 - **Database Provider Factory**, an implementation of [Factory Method](https://www.dofactory.com/net/factory-method-design-pattern) and [Abstract Factory Pattern](https://www.dofactory.com/net/abstract-factory-design-pattern)
 that provide an instace of especific Database provider, SQL Server and Postgres.
