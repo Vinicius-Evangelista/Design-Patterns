@@ -11,3 +11,5 @@ My website for reference: https://www.dofactory.com/net/design-patterns
 that provide an instace of especific Database provider, SQL Server and Postgres.
 
 - **TcpServer**, an implementation of [Adapter](https://www.dofactory.com/net/adapter-design-pattern) that Adapt and old HTTP1 server to HTTP2.
+
+- **InfinityComment**, is just an implementatino of [Composite](https://www.dofactory.com/net/composite-design-pattern), that can hold a set comment and its childrens recursively.
