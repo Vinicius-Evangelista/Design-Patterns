@@ -15,5 +15,5 @@ An implementation of [Adapter](https://www.dofactory.com/net/adapter-design-patt
 ### **Infinity Comment**
 Is just an implementatino of [Composite](https://www.dofactory.com/net/composite-design-pattern), that can hold a set comment and its childrens recursively.
 
-### ** File Operation**
+### **File Operation**
 Implementatino of [Command](https://www.dofactory.com/net/command-design-pattern), that can create a file, undo e redo this action.
