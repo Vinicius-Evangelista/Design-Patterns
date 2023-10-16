@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TcpServer", "TcpServer\TcpS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileStorageService", "FileServiceStorage\FileStorageService.csproj", "{CF1FCD58-6516-4519-B8D4-BDC0EA733B1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityComment", "InfinityComment\InfinityComment.csproj", "{03621230-4990-4052-92CA-768A21B5708D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfinityComment", "InfinityComment\InfinityComment.csproj", "{03621230-4990-4052-92CA-768A21B5708D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOperations", "FileOperations\FileOperations.csproj", "{57BB4D6E-FFC7-461B-BB9E-910C9EC3FCB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{03621230-4990-4052-92CA-768A21B5708D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03621230-4990-4052-92CA-768A21B5708D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03621230-4990-4052-92CA-768A21B5708D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BB4D6E-FFC7-461B-BB9E-910C9EC3FCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BB4D6E-FFC7-461B-BB9E-910C9EC3FCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BB4D6E-FFC7-461B-BB9E-910C9EC3FCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BB4D6E-FFC7-461B-BB9E-910C9EC3FCB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
