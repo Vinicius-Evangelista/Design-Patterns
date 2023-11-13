@@ -4,6 +4,7 @@ namespace PaymentMethod;
 
 public class OrderService : IOrderService
 {
+    //Strategy Pattern
     private readonly IPayment payment;
 
     public OrderService(IPayment payment)

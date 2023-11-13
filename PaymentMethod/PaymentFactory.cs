@@ -2,6 +2,7 @@
 
 namespace PaymentMethod;
 
+// Factory Method
 public abstract class PaymentFactory
 {
     public static IPayment CreatePayment(PaymentType payment)
