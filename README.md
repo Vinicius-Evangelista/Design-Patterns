@@ -17,3 +17,6 @@ Is just an implementatino of [Composite](https://www.dofactory.com/net/composite
 
 ### **File Operation**
 Implementatino of [Command](https://www.dofactory.com/net/command-design-pattern), that can create a file, undo e redo this action.
+
+### **Payment Method**
+Implementatino of [Strategy](https://www.dofactory.com/net/strategy-design-pattern), that you can select which 'strategy' to pay an order at the compile time via a factory.
