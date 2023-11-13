@@ -20,3 +20,6 @@ Implementatino of [Command](https://www.dofactory.com/net/command-design-pattern
 
 ### **Payment Method**
 Implementatino of [Strategy](https://www.dofactory.com/net/strategy-design-pattern), that you can select which 'strategy' to pay an order at the compile time via a factory.
+
+### **Feed Notifier**
+Implementatino of [Observer](https://www.dofactory.com/net/observer-design-pattern), that you can nofity a group of followers if some action happens.
