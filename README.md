@@ -23,3 +23,6 @@ Implementatino of [Strategy](https://www.dofactory.com/net/strategy-design-patte
 
 ### **Feed Notifier**
 Implementatino of [Observer](https://www.dofactory.com/net/observer-design-pattern), that you can nofity a group of followers if some action happens.
+
+### **Bill Payment**
+Implementatino of [Builder](https://www.dofactory.com/net/builder-design-pattern), that you can build a bill with a lot of parameters.
